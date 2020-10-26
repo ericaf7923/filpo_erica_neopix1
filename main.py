@@ -1,0 +1,1 @@
+light.set_pixel_color(n, light.rgb(255,0,0))
